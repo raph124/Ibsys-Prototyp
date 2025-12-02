@@ -1,0 +1,11 @@
+apiVersion: 1
+
+contactPoints:
+  - orgId: 1
+    name: worker-webhook
+    receivers:
+      - uid: worker_webhook
+        type: webhook
+        settings:
+          url: "http://worker:5000/grafana/webhook"
+          httpMethod: POST

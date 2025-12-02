@@ -1,0 +1,274 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
+  <diagram name="Seite-1" id="keFY9QjAGy_RyUBiEmCZ">
+    <mxGraphModel dx="1880" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Projektstrurplan&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-30" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="1600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="1600" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-4" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2010px%3B%26quot%3B%26gt%3BGo-Live%20im%20Pilot%20inkl.%20Betriebs-%20%26amp%3Bamp%3B%20Supportkonzept%20freigeben%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221230%22%20y%3D%22375%22%20width%3D%22110%22%20height%3D%2245%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="1600" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-5" value="1. Ebene" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-6" value="2. Ebene" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-7" value="3. Ebene" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-8" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Sensorbasierte Entscheidungsfindung in der Fahrrad-Lackierung (Dashboard + datenbasierte Nachfolgeschritte)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="90" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-9" value="&lt;h2 data-start=&quot;654&quot; data-end=&quot;690&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;1 – Prozess &amp;amp; Zielbild Lackierung&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;&lt;br/&gt;&lt;div class=&quot;_tableContainer_1rjym_1&quot;&gt;&lt;div tabindex=&quot;-1&quot; class=&quot;group _tableWrapper_1rjym_13 flex w-fit flex-col-reverse&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-10" value="&lt;br&gt;Sensorik und Datenplattform" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-11" value="Dashboard &amp;amp; Worker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-12" value="Pilotierung &amp;amp; Rollout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-13" value="Change, Qualifizierung, Nutzen &amp;amp; KVP (begleitend)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-10" target="eotjUmxk_zAWqI6QbZRe-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="300" as="sourcePoint" />
+            <mxPoint x="600" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-9" target="eotjUmxk_zAWqI6QbZRe-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="300" as="sourcePoint" />
+            <mxPoint x="600" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-11" target="eotjUmxk_zAWqI6QbZRe-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="210" as="sourcePoint" />
+            <mxPoint x="520" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-12" target="eotjUmxk_zAWqI6QbZRe-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="230" as="sourcePoint" />
+            <mxPoint x="720" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-8" target="eotjUmxk_zAWqI6QbZRe-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="200" as="sourcePoint" />
+            <mxPoint x="910" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Ist-Prozess &amp;amp; Wertstrom Lackierung dokumentieren&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="380" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Schwachstellen Qualität/Energie/Transparenz analysieren&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="457.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Zielbild &amp;amp; priorisierte Use Cases definieren&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="380" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Ziel-KPIs &amp;amp; Prozessfenster festlegen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="457.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-24" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-20" target="eotjUmxk_zAWqI6QbZRe-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="340" as="sourcePoint" />
+            <mxPoint x="310" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-25" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-21" target="eotjUmxk_zAWqI6QbZRe-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="350" as="sourcePoint" />
+            <mxPoint x="310" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="483" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-22" target="eotjUmxk_zAWqI6QbZRe-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="380" as="sourcePoint" />
+            <mxPoint x="380" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="405" />
+              <mxPoint x="250" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-23" target="eotjUmxk_zAWqI6QbZRe-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="310" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="483" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-28" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Sensorik/Energiemessung implementieren&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413" y="380" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Edge-/Gateway-Infrastruktur implementieren&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="457.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Datenqualität, Governance &amp;amp; IT/OT-Security-Konzept umsetzen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="375" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-28" target="eotjUmxk_zAWqI6QbZRe-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="370" as="sourcePoint" />
+            <mxPoint x="690" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-33" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-29" target="eotjUmxk_zAWqI6QbZRe-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="777" y="370" as="sourcePoint" />
+            <mxPoint x="827" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="483" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-31" target="eotjUmxk_zAWqI6QbZRe-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="380" as="sourcePoint" />
+            <mxPoint x="1050" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="405" />
+              <mxPoint x="560" y="405" />
+              <mxPoint x="560" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-36" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Dashboards für Feuchte, Temperatur, Düsendruck &amp;amp; Energie implementieren&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="372.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-37" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Regelwerk &amp;amp; Worker-Logik (Schwellwerte, Eskalationen, Maßnahmen) fachlich definieren&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="375" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-38" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Worker &amp;amp; Benachrichtigungen technisch umsetzen, testen &amp;amp; abnehmen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="447.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-40" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-38" target="eotjUmxk_zAWqI6QbZRe-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="350" as="sourcePoint" />
+            <mxPoint x="850" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="473" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-36" target="eotjUmxk_zAWqI6QbZRe-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="430" as="sourcePoint" />
+            <mxPoint x="850" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="398" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="447.5" as="sourcePoint" />
+            <mxPoint x="890.7106781186548" y="397.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="398" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-43" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Pilotlinie &amp;amp; Scope festlegen, Gesamtlösung in Pilotlinie in Betrieb nehmen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="372.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-44" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Shadow-Mode-Betrieb auswerten &amp;amp; Parameter/Regeln feinjustieren&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="442.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-45" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Go-Live im Pilot inkl. Betriebs- &amp;amp; Supportkonzept freigeben&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="372.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-46" value="&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Stakeholderanalyse &amp;amp; Kommunikations-/Change-Konzept umsetzen&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="375" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-47" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Schulungskonzept &amp;amp; Qualifizierung durchführen&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="375" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-48" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;KPI-Baseline erheben &amp;amp; laufendes KPI-/Management-Reporting etablieren&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="452.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-43" target="eotjUmxk_zAWqI6QbZRe-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="390" as="sourcePoint" />
+            <mxPoint x="1230" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1170" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-45" target="eotjUmxk_zAWqI6QbZRe-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="350" as="sourcePoint" />
+            <mxPoint x="1170" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1170" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-44" target="eotjUmxk_zAWqI6QbZRe-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="510" as="sourcePoint" />
+            <mxPoint x="1220" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1170" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-54" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-48" target="eotjUmxk_zAWqI6QbZRe-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="490" as="sourcePoint" />
+            <mxPoint x="1500" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1500" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-55" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-46" target="eotjUmxk_zAWqI6QbZRe-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1470" y="360" as="sourcePoint" />
+            <mxPoint x="1520" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1500" y="403" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eotjUmxk_zAWqI6QbZRe-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eotjUmxk_zAWqI6QbZRe-47" target="eotjUmxk_zAWqI6QbZRe-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1530" y="530" as="sourcePoint" />
+            <mxPoint x="1580" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1500" y="403" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
