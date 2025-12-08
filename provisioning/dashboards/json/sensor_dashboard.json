@@ -215,11 +215,11 @@
     },
     {
       "type": "table",
-      "title": "Ausgeführte Aktionen (Follow-ups nach 20s Alert)",
+      "title": "Ausgeführte Aktionen",
       "id": 5,
       "datasource": {"type":"postgres","uid":"ibsys-postgres"},
       "targets": [
-  {"refId": "E", "datasource": {"type":"postgres","uid":"ibsys-postgres"}, "rawQuery": true, "format": "table", "rawSql": "SELECT TO_CHAR(created_at, 'HH24:MI:SS') as zeit, alert_title as alert, ROUND(current_value::numeric, 2) as wert, ROUND(threshold::numeric, 2) as schwellenwert, action as aktion FROM alert_actions ORDER BY created_at DESC LIMIT 30"}
+  {"refId": "E", "datasource": {"type":"postgres","uid":"ibsys-postgres"}, "rawQuery": true, "format": "table", "rawSql": "SELECT TO_CHAR(created_at AT TIME ZONE 'Europe/Berlin', 'HH24:MI:SS') as zeit, alert_title as alert, ROUND(current_value::numeric, 2) as wert, ROUND(threshold::numeric, 2) as schwellenwert, action as aktion FROM alert_actions ORDER BY created_at DESC LIMIT 30"}
       ],
       "options": {
         "showHeader": true,
